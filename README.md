@@ -18,7 +18,7 @@ This is my personal portfolio website built with HTML and CSS. It introduces who
 
 Clone or download the repository and open `index.html` in any browser.
 
-## 📫 Contact Email: youremail@example.com  
+## 📫 Contact Email: makwenamashamaite0@gmail.com  
 GitHub: [makwenamashamaite](https://github.com/makwenamashamaite)
 
 
